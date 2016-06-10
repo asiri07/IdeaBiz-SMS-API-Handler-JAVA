@@ -2,8 +2,11 @@
 
 ##Pre request
 * Maven install bellow projects
+
 	Ideabiz-APICallHandler (https://github.com/ideabizlk/IdeaBiz-Request-Handler-JAVA)
+	
 	ideabiz-common-java-class (https://github.com/ideabizlk/Classes-JAVA)
+	
 * Setup request handler as your app or use sample app setup. More help, please refer Request handler Readme
 
 ## Usage

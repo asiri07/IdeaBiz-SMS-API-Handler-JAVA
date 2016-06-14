@@ -3,9 +3,9 @@ package lk.dialog.ideabiz.library.APIHandler;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import lk.dialog.ideabiz.api.model.common.sms.Inbound.InboundSMSRequestWrap;
-import lk.dialog.ideabiz.api.model.common.sms.Outbound.OutboundSMSMessageRequest;
-import lk.dialog.ideabiz.api.model.common.sms.Outbound.OutboundSMSMessagingRequestWrap;
+import lk.ideabiz.api.model.common.sms.Inbound.InboundSMSRequestWrap;
+import lk.ideabiz.api.model.common.sms.Outbound.OutboundSMSMessageRequest;
+import lk.ideabiz.api.model.common.sms.Outbound.OutboundSMSMessagingRequestWrap;
 import lk.dialog.ideabiz.library.APICall.APICall;
 import lk.dialog.ideabiz.library.APIHandler.model.SMS.SMSMessage;
 import lk.dialog.ideabiz.library.model.APICall.APICallResponse;
